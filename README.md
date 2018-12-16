@@ -1,2 +1,2 @@
-# hello-world
-My first repository
+# Gradient Descent in python
+Determining parameters w using gradient descent
